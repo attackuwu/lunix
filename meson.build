@@ -1,4 +1,4 @@
-project('lunix', version: '0.1.0', meson_version: '>=0.56')
+project('lunix', version: '0.0.1', meson_version: '>=0.56')
 
 lua = find_program('lua', 'lua5.4', 'lua5.3', required: true)
 kernel = meson.project_source_root() / 'kernel.lua'
