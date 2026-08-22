@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Создает пустой файл в виртуальной файловой системе.
 local desc = "Создать пустой файл в папке luafs"
 

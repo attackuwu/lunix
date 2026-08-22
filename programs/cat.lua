@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Показывает содержимое одного файла виртуальной файловой системы.
 local desc = "Показать содержимое файла из папки luafs"
 

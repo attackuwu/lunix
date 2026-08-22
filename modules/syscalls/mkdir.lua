@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Создает один новый каталог внутри виртуальной файловой системы.
 return function(context)
     return function(path, mode)

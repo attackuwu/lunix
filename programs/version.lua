@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Показывает имя, версию Lunix и название условного ядра.
 local desc = "Показать версию системы"
 

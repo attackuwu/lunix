@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Открывает или создает файл и выдает ему внутренний файловый дескриптор.
 return function(context)
     local constants = context.constants

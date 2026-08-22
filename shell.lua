@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Загружает модуль виртуальной файловой системы и создает ее корень в luafs.
 local function loadFileSystem(baseDir)
     local loader, err = loadfile(baseDir .. "/modules/fs.lua")

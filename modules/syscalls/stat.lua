@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Собирает упрощенную информацию о типе и размере объекта.
 return function(context)
     local function statResolved(resolved, displayPath)

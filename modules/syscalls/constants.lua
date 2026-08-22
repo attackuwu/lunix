@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Имена флагов открытия, режимов позиционирования и проверок доступа.
 return {
     O_RDONLY = "O_RDONLY",

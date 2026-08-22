@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Проверяет существование объекта и доступ к нему по флагам F_OK/R_OK/W_OK/X_OK.
 return function(context)
     local constants = context.constants

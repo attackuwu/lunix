@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Записывает строку в открытый файл и возвращает число записанных байтов.
 return function(context)
     return function(fd, data)

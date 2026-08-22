@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 attackuwu (https://github.com/attackuwu). All Rights Reserved.
+-- SPDX-License-Identifier: APSL-2.0
+
 -- Удаляет один обычный файл из виртуальной файловой системы.
 local desc = "Удалить файл из папки luafs"
 
