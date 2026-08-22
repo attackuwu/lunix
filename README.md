@@ -79,7 +79,7 @@ Windows без Unix-совместимого окружения официаль
 Клонируйте репозиторий и перейдите в его каталог:
 
 ```bash
-git clone <URL-репозитория>
+git clone https://github.com/attackuwu/lunix
 cd Lunix
 ```
 
